@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @markamarzan
+- 👋 Hey, Mark here!
 - 👀 I’m interested in software development, specifically iOS development. I also really enjoy reading books and writing during my spare time. 
-- 🌱 I’m currently learning the fundamentals to be a full-stack engineer on Codecademy
+- 🌱 I’m currently learning the fundamentals to be a full-stack engineer on Codecademy. 
 - 💞️ I’m looking to collaborate on front-end applications and iOS applications.
 - 📫 How to reach me:
 I'm usually always active on Twitter: @markmarzan_
